@@ -1,0 +1,53 @@
+.body{
+  padding-left: 250px;background-color: #dcdcdc;
+}
+.titulo--routerView {
+  color: #6059c1;
+  font-size: 35px;
+  margin: 5px;
+}
+.container--routerView {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  background-color: #dcdcdc;
+  margin-left: 30px;
+}
+.objetos {
+  background-color: #6059c1;
+  color: #fff;
+  list-style: none;
+  text-decoration-color: none;
+  margin-top: 5px;
+  padding: 5px;
+  border-radius: 20px;
+  border:solid 2px #000;
+}
+.button{
+  background-color: #6059c1;
+  color: #fff;
+  width: 120px;
+  border-radius: 20px;
+  border: solid 2px #000;
+  font-size: 20px;
+}
+.button--icones{
+  height: 30px;
+  width: 30px;
+}
+.button--icones:active{
+  height: 25px;
+  width: 25px;
+}
+
+.objetos--nome{
+  padding-right: 10px;
+  font-size: 30px;
+}
+.container--footer {
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+  height: 5vh;
+  color: #6059c1;
+}
